@@ -314,7 +314,7 @@ ${data.description}
 ## Installation
 ${data.installation}
 
-## Useage
+## Usage
 ${data.usage}
 
 ## Contributors
